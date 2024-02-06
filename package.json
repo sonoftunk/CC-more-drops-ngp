@@ -1,0 +1,7 @@
+{
+    "name": "more-drops-ngp",
+    "ccmodHumanName": "MoreDropsNGP",
+    "version": "1.0.0",
+	"plugin": "plugin.js",
+	"description": "Adds higher multipliers for CrossCode's NG+ drop rates."
+}
